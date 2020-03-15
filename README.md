@@ -19,4 +19,4 @@ Please fork this repository and the issue Pull Request for review.
 
 
 ### Copyright
-This is copyrighted!
+This is copyrighted! All Rights rezerved!
